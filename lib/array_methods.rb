@@ -35,6 +35,6 @@ end
 
 def using_size(array)
   
-  expressions = ["Huh?", "REALLY!?", "wow", "arrays!", "Horay"]
+  expressions = ["Huh?", "REALLY!?", "wow", "arrays!", "Hooray!", "Yippe!"]
 
 end
