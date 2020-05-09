@@ -13,7 +13,7 @@ end
 
 def using_reverse(array)
   
-  expressions = ["Huh?", "REALLY!?", "wow"]
+  expressions = ["Huh?", "REALLY!?", "wow", "arrays!"]
   expressions.reverse
 
 end
