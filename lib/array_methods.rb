@@ -6,7 +6,7 @@ end
 
 def using_sort(array)
   
-  expressions = ["Huh?", "REALLY!?", "wow"]
+  expressions = ["I", "REALLY!?", "wow"]
   expressions.sort
 
 end
