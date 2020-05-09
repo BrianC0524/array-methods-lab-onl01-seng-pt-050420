@@ -1,21 +1,21 @@
 def using_include(array, element)
   
   expressions = ["Huh?", "REALLY!?", "wow"]
-  expressions.include?("wow")
+  expressions.include?("Hooray!")
 
 end
 
 def using_sort(array)
   
   expressions = ["Huh?", "REALLY!?", "wow"]
-  expressions.sort!
+  expressions.sort
 
 end
 
 def using_reverse(array)
   
   expressions = ["Huh?", "REALLY!?", "wow"]
-  expressions.reverse!
+  expressions.reverse
 
 end
 
