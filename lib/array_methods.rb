@@ -1,7 +1,6 @@
 def using_include(array, element)
   
-  expressions = ["Huh?", "REALLY!?", "wow"]
-  expressions.include?("Huh?")
+  array.include?(element)
 
 end
 
